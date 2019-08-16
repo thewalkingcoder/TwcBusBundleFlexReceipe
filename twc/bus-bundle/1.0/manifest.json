@@ -1,0 +1,6 @@
+{
+    "bundles": {
+        "Twc\\BusBundle\\TwcBusBundle::class": ["all"]
+    },
+    "aliases": ["twc-bus", "twc-bus-bundle"]
+}
